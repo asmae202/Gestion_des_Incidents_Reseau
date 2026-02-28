@@ -43,7 +43,7 @@
 #### - La gestion des équipements
 #### - La recherche multicritère
 #### - Le suivi du statut des interventions
-# 📊 Diagrammes :
+# 📊 Diagrammes:
 ## Diagramme use case:
 
 <img width="1446" height="908" alt="Capture d&#39;écran 2026-02-28 200038" src="https://github.com/user-attachments/assets/70a97c5b-ded2-4a2d-88f7-5f20b4cbd996" />
@@ -56,7 +56,7 @@
 #### - Incident (id, date ouverture , date cloture , priorite , statut)
 #### - Technicien (id, nom, specialite , email)
 #### - Equipement (id, nom, type, ip, localisation)
-# ✨ Fonctionnalités Principales :
+# ✨ Fonctionnalités Principales:
 ## Gestion des Équipements :
 #### - Ajouter un équipement :Formulaire pour saisir le nom, type (Routeur / Switch / Point d’Accès), adresse IP et localisation.
 #### - Modifier un équipement :Mettre à jour les informations d’un équipement existant.
@@ -96,11 +96,11 @@
 #### - JFreeChart :  graphique  statistique
 #### - Inno Setup :installateur Windows
 #### - Architectures : Draw io
-# 🎥 Démo video:
+# 🎥 Démo Vidéo:
 
 
 https://github.com/user-attachments/assets/71fa7a71-0e40-4f68-a1bd-3fc9c67de048
 
  # 👥 Équipe projet:
  #### BRINA NASSIMA : https://github.com/nassima-brina
- #### AABASSE ASMAE : https://github.com/asmae202
+ #### AABASSE ASMAE : https://github.com/asmae202://github.com/asmae202
