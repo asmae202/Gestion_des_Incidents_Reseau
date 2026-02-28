@@ -27,3 +27,49 @@
 ## Diagramme de classe :
 
 <img width="770" height="585" alt="Capture d&#39;écran 2026-02-28 200451" src="https://github.com/user-attachments/assets/01f2c81c-ce0e-4511-a772-03b578286b06" />
+
+# 🗃 Tables de Données:
+#### - Incident (id, date ouverture , date cloture , priorite , statut)
+#### - Technicien (id, nom, specialite , email)
+#### - Equipement (id, nom, type, ip, localisation)
+# ✨ Fonctionnalités Principales :
+## Gestion des Équipements :
+#### - Ajouter un équipement :Formulaire pour saisir le nom, type (Routeur / Switch / Point d’Accès), adresse IP et localisation.
+#### - Modifier un équipement :Mettre à jour les informations d’un équipement existant.
+#### - Supprimer un équipement :Retirer un équipement de la base de données.
+## Gestion des Techniciens :
+#### - Ajouter un technicien :Saisir le nom, spécialité (Réseau / Sécurité / Maintenance…), et email.
+#### - Modifier un technicien :Mettre à jour les informations d’un technicien existant.
+#### - Supprimer un technicien :Supprimer un technicien de la base.
+## Gestion des Incidents : 
+#### - Déclarer un incident :Créer un nouvel incident en sélectionnant :L’équipement concerné,Lapriorité (Faible / Moyenne / Élevée) ,La description ,La date d’ouverture  .
+#### - Affecter un technicien :Associer un technicien à un incident.
+#### - Clôturer un incident :Saisir la date de clôture et changer le statut en “Résolu”.
+#### - Calcul automatique de la durée :Durée = dateCloture – dateOuverture.
+## Filtrage des Incidents :
+#### - Filtrer par priorité
+#### - Filtrer par statut
+#### - Filtrer par localisation
+#### - Filtrer par période (date début – date fin)
+# 🔍 Requêtes sql :
+
+![WhatsApp Image 2026-02-28 at 20 43 00](https://github.com/user-attachments/assets/47b3d5ee-8d35-4481-9473-b063b79bb192)
+
+![WhatsApp Image 2026-02-28 at 20 43 00](https://github.com/user-attachments/assets/e56f12ee-e623-4cdb-8d9b-7501f3e146ae)
+
+![WhatsApp Image 2026-02-28 at 20 43 00](https://github.com/user-attachments/assets/8be949a5-aa2e-4d52-9a4f-c676ce6af2ca)
+
+# 🏛 Architecture :
+![WhatsApp Image 2026-02-28 at 12 50 53](https://github.com/user-attachments/assets/a2633e70-e22a-414a-895e-e03753b77029)
+
+# 🛠 Technologies Utilisées:
+#### - Base de données : MySQL
+#### - Gestion de base de données : phpMyAdmin
+#### - Accès aux données : JDBC
+#### - Framework d'interface graphique : Java Swing
+#### - Outils de développement : NetBeans (IDE Java) 
+#### - Outil de diagramme:  StarUml
+#### - Architectures : Draw io
+
+
+
