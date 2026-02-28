@@ -1,4 +1,27 @@
 # 🛠️ Gestion des Incidents Réseau
+# 📁 Table de matieres
+
+- [🗂  Contexte ](#-contexte )
+  
+- [❓ Problématique](#-problématique)
+  
+- [🎯 Objectif](#-objectif)
+  
+- [📊 Diagrammes](#-diagrammes)
+  
+- [🗃 Tables de Données](#-tables-de-données)
+  
+- [✨ Fonctionnalités Principales](#-fonctionnalités-principales)
+  
+- [🔍 Requêtes SQL](#-requêtes-sql)
+  
+- [🏛 Architecture](#-architecture)
+  
+- [🛠 Technologies Utilisées](#-technologies-utilisées)
+  
+- [🎥 Démo Vidéo](#-démo-vidéo)
+
+
 # 📌 Contexte :
 #### Dans les organisations modernes, les infrastructures informatiques jouent un rôle central dans le fonctionnement quotidien des services. Les réseaux, les équipements et les systèmes doivent être opérationnels en permanence afin d’assurer la continuité des activités.Cependant, les incidents techniques (pannes matérielles, problèmes réseau, erreurs système, dysfonctionnements logiciels) sont inévitables. Lorsqu’ils ne sont pas gérés efficacement, ces incidents peuvent entraîner :Des interruptions de service ,Une perte de productivité ,Une baisse de performance et Des risques organisationnels .
 #### Dans ce contexte, il devient indispensable de mettre en place un système informatisé permettant : L’enregistrement des incidents ,Le suivi de leur état ,L’affectation aux techniciens , La gestion des équipements concernés ,La consultation et la recherche rapide des informations.
@@ -21,7 +44,8 @@
 #### - La recherche multicritère
 #### - Le suivi du statut des interventions
 # 📊 Diagrammes :
-## Diagramme use case
+## Diagramme use case:
+
 <img width="1446" height="908" alt="Capture d&#39;écran 2026-02-28 200038" src="https://github.com/user-attachments/assets/70a97c5b-ded2-4a2d-88f7-5f20b4cbd996" />
 
 ## Diagramme de classe :
@@ -70,11 +94,7 @@
 #### - Outils de développement : NetBeans (IDE Java) 
 #### - Outil de diagramme:  StarUml
 #### - Architectures : Draw io
-
-
-
-
-
+# 🎥 Démo video :
 
 
 https://github.com/user-attachments/assets/cf8a50b2-64c3-42fe-a4c3-bdb7a482702e
