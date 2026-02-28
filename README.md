@@ -1,7 +1,7 @@
 # 🛠️ Gestion des Incidents Réseau
 # 📁 Table de matieres
 
-- [🗂  Contexte ](#-contexte )
+- [📌 Contexte](#-contexte)
   
 - [❓ Problématique](#-problématique)
   
@@ -22,7 +22,7 @@
 - [🎥 Démo Vidéo](#-démo-vidéo)
 
 
-# 📌 Contexte :
+# 📌 Contexte:
 #### Dans les organisations modernes, les infrastructures informatiques jouent un rôle central dans le fonctionnement quotidien des services. Les réseaux, les équipements et les systèmes doivent être opérationnels en permanence afin d’assurer la continuité des activités.Cependant, les incidents techniques (pannes matérielles, problèmes réseau, erreurs système, dysfonctionnements logiciels) sont inévitables. Lorsqu’ils ne sont pas gérés efficacement, ces incidents peuvent entraîner :Des interruptions de service ,Une perte de productivité ,Une baisse de performance et Des risques organisationnels .
 #### Dans ce contexte, il devient indispensable de mettre en place un système informatisé permettant : L’enregistrement des incidents ,Le suivi de leur état ,L’affectation aux techniciens , La gestion des équipements concernés ,La consultation et la recherche rapide des informations.
 #### C’est dans cette optique que le projet Gestion des Incidents Réseau a été développé, afin de proposer une application desktop permettant d’optimiser la gestion et le suivi des incidents au sein d’une organisation.
@@ -48,7 +48,7 @@
 
 <img width="1446" height="908" alt="Capture d&#39;écran 2026-02-28 200038" src="https://github.com/user-attachments/assets/70a97c5b-ded2-4a2d-88f7-5f20b4cbd996" />
 
-## Diagramme de classe :
+## Diagramme de classe:
 
 <img width="770" height="585" alt="Capture d&#39;écran 2026-02-28 200451" src="https://github.com/user-attachments/assets/01f2c81c-ce0e-4511-a772-03b578286b06" />
 
@@ -75,7 +75,7 @@
 #### - Filtrer par statut
 #### - Filtrer par localisation
 #### - Filtrer par période (date début – date fin)
-# 🔍 Requêtes sql :
+# 🔍 Requêtes sql:
 
 ![WhatsApp Image 2026-02-28 at 20 43 00](https://github.com/user-attachments/assets/47b3d5ee-8d35-4481-9473-b063b79bb192)
 
@@ -83,7 +83,7 @@
 
 ![WhatsApp Image 2026-02-28 at 20 43 00](https://github.com/user-attachments/assets/8be949a5-aa2e-4d52-9a4f-c676ce6af2ca)
 
-# 🏛 Architecture :
+# 🏛 Architecture:
 ![WhatsApp Image 2026-02-28 at 12 50 53](https://github.com/user-attachments/assets/a2633e70-e22a-414a-895e-e03753b77029)
 
 # 🛠 Technologies Utilisées:
@@ -93,12 +93,14 @@
 #### - Framework d'interface graphique : Java Swing
 #### - Outils de développement : NetBeans (IDE Java) 
 #### - Outil de diagramme:  StarUml
+#### - JFreeChart :  graphique  statistique
+#### - Inno Setup :installateur Windows
 #### - Architectures : Draw io
-# 🎥 Démo video :
+# 🎥 Démo video:
 
 
-https://github.com/user-attachments/assets/cf8a50b2-64c3-42fe-a4c3-bdb7a482702e
+https://github.com/user-attachments/assets/71fa7a71-0e40-4f68-a1bd-3fc9c67de048
 
-
-
-
+ # 👥 Équipe projet:
+ #### BRINA NASSIMA : https://github.com/nassima-brina
+ #### AABASSE ASMAE : https://github.com/asmae202
